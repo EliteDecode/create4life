@@ -6,10 +6,10 @@ Create4Life is the website for a charity that supports children in remote and un
 
 Children in isolated villages are often cut off from good education and stay trapped in poverty. Create4Life runs programmes that teach these children and connect them to opportunities beyond their community. The website helps the charity raise and manage the money that funds this work:
 
-- **Tell the story** â€” about, gallery and contact pages show the mission and its impact ("It's time for a better help").
-- **Collect donations** â€” supporters donate and upload proof of payment.
-- **Build trust** â€” admins review and confirm each payment, so every donation is accounted for.
-- **Grow a community** â€” visitors subscribe for updates.
+- **Tell the story** — about, gallery and contact pages show the mission and its impact ("It's time for a better help").
+- **Collect donations** — supporters donate and upload proof of payment.
+- **Build trust** — admins review and confirm each payment, so every donation is accounted for.
+- **Grow a community** — visitors subscribe for updates.
 
 ## Key features
 
